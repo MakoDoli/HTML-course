@@ -2,3 +2,13 @@ body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
 }
+header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+ul {
+  display: flex;
+  gap: 10px;
+  list-style: none;
+}
